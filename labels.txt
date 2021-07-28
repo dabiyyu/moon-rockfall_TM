@@ -1,0 +1,2 @@
+0 rockfall
+1 not rockfall
